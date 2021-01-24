@@ -1,0 +1,4 @@
+apiVersion: v1
+description: BasicAuth secret created by Helm
+name: basic-auth-secret
+version: 1.0.0
